@@ -1,5 +1,0 @@
-Flask
-Gunicorn
-flask-cors
-joblib
-numpy
